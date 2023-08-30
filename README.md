@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CipherZ0
 - 👀 I’m interested in Cyber Security, Ethical Hacking, and Computer Programming
 - 🌱 I’m currently learning Cyber Security.
-- 💞️ I’m looking to collaborate on Cyber Security realted topics.
+- 💞️ I’m looking to collaborate on Cyber Security related topics.
 - 📫 How to reach me ...
 
 <!---
